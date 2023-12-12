@@ -9,6 +9,7 @@ This solves specific cryptarithmetic problems of the following form:
 = x9 x10 x11 x12 x13
 
 Input is a text file of the following form of alphabet characters:
+
 x1x2x3x4
 
 x5x6x7x8
