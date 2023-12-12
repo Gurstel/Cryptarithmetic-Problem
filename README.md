@@ -9,8 +9,8 @@ This solves specific cryptarithmetic problems of the following form:
 = x9 x10 x11 x12 x13
 
 Input is a text file of the following form of alphabet characters:
-x1x2x3x4
-x5x6x7x8
-x9x10x11x12x13
+x1x2x3x4\n
+x5x6x7x8\n
+x9x10x11x12x13\n
 
 Output is the resulting digits that solve the problem
